@@ -8,7 +8,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
 end
 
-gem "ekyll"
 gem "addressable"
 gem "i18n"
 gem "jekyll-sass-converter"
