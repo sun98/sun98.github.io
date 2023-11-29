@@ -1,0 +1,4 @@
+theme: jekyll-theme-clean-blog
+gems:
+  - jekyll-theme-clean-blog
+  - jekyll-feed
