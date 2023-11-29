@@ -19,5 +19,5 @@ jobs:
           ruby-version: '3.1'
       - name: Build the site
         run: |
-          bundle install --path vendor/bundle
+          bundle install
           bundle exec jekyll build
