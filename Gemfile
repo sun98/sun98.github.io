@@ -8,6 +8,21 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
 end
 
+gem "ekyll"
+gem "jekyll-feed"
+gem "addressable"
+gem "i18n"
+gem "jekyll-sass-converter"
+gem "liquid"
+gem "rouge"
+gem "public_suffix"
+gem "concurrent-ruby"
+gem "sass"
+gem "listen"
+gem "rexml"
+gem "sass-listen"
+gem "ffi"
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
