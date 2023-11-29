@@ -9,7 +9,6 @@ group :jekyll_plugins do
 end
 
 gem "ekyll"
-gem "jekyll-feed"
 gem "addressable"
 gem "i18n"
 gem "jekyll-sass-converter"
