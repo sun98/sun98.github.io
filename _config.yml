@@ -1,4 +1,4 @@
 theme: jekyll-theme-clean-blog
-gems:
+plugins:
   - jekyll-theme-clean-blog
   - jekyll-feed
