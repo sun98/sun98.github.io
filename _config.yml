@@ -1,8 +1,0 @@
-theme: jekyll-theme-clean-blog
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-remote-theme
-title: [Suibin's Page]
-description: [Welcome!]
