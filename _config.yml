@@ -2,7 +2,7 @@ title:              Suibin's Blog
 email:              sun1998s@outlook.com
 #description:        A Blog Theme by Start Bootstrap
 author:             Suibin Sun
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            "/"
 url:                "https://sun98.github.io"
 
 # Social Profiles
