@@ -10,14 +10,14 @@ url:                "https://sun98.github.io"
 github_username:    sun98
 #facebook_username:  StartBootstrap
 #instagram_username:  
-#linkedin_username:
+linkedin_username: suibin-sun
 
 # Add your google-analytics ID here to activate google analytics
 #google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
-paginate:           5
+paginate:           10
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
