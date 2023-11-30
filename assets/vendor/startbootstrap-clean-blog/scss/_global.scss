@@ -23,7 +23,8 @@ h6 {
 }
 
 a {
-    color: $gray-900;
+    // color: $gray-900;
+    color: rgba(123, 45, 67, 0.5);
 
     &:focus,
     &:hover {
